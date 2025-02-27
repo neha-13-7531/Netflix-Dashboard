@@ -30,12 +30,12 @@ The dashboard includes the following analytical steps:
  - Total Movies & TV Shows by Year – Tracks content growth over the years.
 
 # Steps Perform 
- 1.**Map**: To show geographical distribution of content(Total Movies & TV shows by Country). 
- 2.**Bar chart**: To present top 10 genres and content added per year.
- 3.**Pie chart**: To show the distribution of Movies vs TV shows.
- 4.**Bar chart**: To show the distribution of Ratings.
- 5.**Line(discrete)**: To show Total Movies and TV shows by year.
- 7.**Text Table**: To display detailed information about individual titles (Data added,Release year,Duration,Rating,Genre,Description).
+ - **Map**: To show geographical distribution of content(Total Movies & TV shows by Country). 
+ - **Bar chart**: To present top 10 genres and content added per year.
+ - **Pie chart**: To show the distribution of Movies vs TV shows.
+ - **Bar chart**: To show the distribution of Ratings.
+ - **Line(discrete)**: To show Total Movies and TV shows by year.
+ - **Text Table**: To display detailed information about individual titles (Data added,Release year,Duration,Rating,Genre,Description).
   
 # Future Improvements
  - Integrate real-time Netflix catalog updates.
